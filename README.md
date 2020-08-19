@@ -1,6 +1,6 @@
 ## wxpay-demo 
 
-A demp project use fastwego/wxpay sdk
+A demo project use fastwego/wxpay sdk
 
 - checkout project `git clone https://github.com/fastwego/wxpay-demo.git`
 - install fastwego/wxpay `go get github.com/fastwego/wxpay`
